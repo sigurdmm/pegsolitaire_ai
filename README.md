@@ -19,3 +19,6 @@ The outline of the project is to build a Peg Solitaire solver using Actor-Critic
 2. Modify parameters in the Settings class in main.py
 3. Run main.py
 4. View the optimal solution in `out/solution.gif` and see the progression of learning in `out/plot.png` 
+
+Here is an example output gif of a triangle shaped board of size 4:
+![Solution gif example](solution.gif)
